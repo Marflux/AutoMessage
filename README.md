@@ -23,7 +23,7 @@
 ## Setup on Replit:
 1. Create a new replit
 2. Select import from github
-3. paste this github url: `https://github.com/AlifPapp/AutoSend`
+3. paste this github url: `https://github.com/Marflux/AutoSend`
 4. Go to the tab `Secrets(Environment variables)`
 5. Create a secret with the key name: `Token` and for the value parse your token.
    * Find your token by pasting [GetDiscordTokenFromConsole.js](https://raw.githubusercontent.com/AlifPapp/AutoSend/main/GetDiscordTokenFromConsole/GetDiscordTokenFromConsole.js) into the console on discord.
